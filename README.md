@@ -1,2 +1,2 @@
 # ObjcTemplate_Programmatic
-Source code will programmatically create an objc window with simple app menu and two buttons.
+The following objective-c source code will programmatically create a window with a simple app menu and two buttons.  It may be run in Xcode by deleting the pre-supplied code in main.m and copy/pasting this code in its place, as well as deleting both pre-supplied AppDelegate files.   Automatic reference counting is used.  Alternatively it may be run from the Terminal command-line with this code: clang objcTemplate.m -fobjc-arc -framework Cocoa -o objcTemplate && ./objcTemplate
